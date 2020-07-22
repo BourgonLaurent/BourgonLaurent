@@ -1,5 +1,5 @@
 <header>
-    <img src="./name.svg">
+    <img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/name.svg">
 </header>
 
 ## :school_satchel: I'm currently learning
@@ -23,10 +23,10 @@
     <p align="center">
     <i>Let's connect and chat! Some days can be quite boring...</i>
         <p align="center">
-            <a href="https://dev.to/bourgonlaurent" alt="DEV"><img src="./dev.svg" width="5%"></a>
-            <a href="https://twitter.com/BourgonLau" alt="Twitter"><img src="./twitter-square.svg" width="5%"></a>
-            <a href="https://www.linkedin.com/in/bourgonlaurent/" alt="Linkedin"><img src="./linkedin.svg" width="5%"></a>
-            <a href="mailto:laurent.bourgon@outlook.com" alt="Contact me"><img src="./envelope-square.svg" width="5%"></a>
+            <a href="https://dev.to/bourgonlaurent" alt="DEV"><img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/dev.svg" width="5%"></a>
+            <a href="https://twitter.com/BourgonLau" alt="Twitter"><img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/twitter-square.svg" width="5%"></a>
+            <a href="https://www.linkedin.com/in/bourgonlaurent/" alt="Linkedin"><img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/linkedin.svg" width="5%"></a>
+            <a href="mailto:laurent.bourgon@outlook.com" alt="Contact me"><img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/envelope-square.svg" width="5%"></a>
         </p>
     </p>
 </footer>
