@@ -8,9 +8,9 @@
 
 - :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
 
-# :black_nib: Most Recent Blog Posts
+# :black_nib: Recent Blog Posts
 
-- 
+- [Saving Time as a Student: Create Custom Documents in 10 seconds](https://dev.to/bourgonlaurent/saving-time-as-a-student-create-custom-documents-in-10-seconds-4hea)
 
 # :sparkles: Nice Projects I've Made
 
