@@ -2,6 +2,23 @@
     <img src="./name.svg">
 </header>
 
+## :school_satchel: I'm currently learning
+
+- Data Manipulation in Jupyter with `Python`
+- Scripting (and enhancing) the MacBook Pro TouchBar inside BetterTouchTool with `JavaScript + AppleScript`
+- Introduction to SwiftUI with `Swift`
+
+## :hammer: Projects I'm currently working on
+
+- :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
+
+## :sparkles: Nice Projects I've Made
+
+- :notebook_with_decorative_cover: [pyÉtude](https://github.com/BourgonLaurent/pyEtude)
+- :ski: [TelegramSuttonForecast](https://github.com/BourgonLaurent/pyEtude)
+
+---
+
 <footer>
     <p align="center">
     <i>Let's connect and chat! Some days can be quite boring...</i>
