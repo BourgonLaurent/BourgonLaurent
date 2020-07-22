@@ -4,13 +4,13 @@
 - Scripting (and enhancing) the MacBook Pro TouchBar inside BetterTouchTool with `JavaScript + AppleScript`
 - Introduction to SwiftUI with `Swift`
 
-# :hammer: Projects I'm currently working on
-
-- :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
-
 # :black_nib: Recent Blog Posts
 
 - [Saving Time as a Student: Create Custom Documents in 10 seconds](https://dev.to/bourgonlaurent/saving-time-as-a-student-create-custom-documents-in-10-seconds-4hea)
+
+# :hammer: Projects I'm currently working on
+
+- :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
 
 # :sparkles: Nice Projects I've Made
 
