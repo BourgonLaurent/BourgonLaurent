@@ -1,4 +1,18 @@
-### Hi there 👋
+<header>
+    <img src="./name.svg">
+</header>
+
+<footer>
+    <p align="center">
+    <i>Let's connect and chat! Some days can be pretty boring...</i>
+        <p align="center">
+            <a href="https://dev.to/bourgonlaurent" alt="DEV"><img src="./dev.svg" width="5%"></a>
+            <a href="https://twitter.com/BourgonLau" alt="Twitter"><img src="./twitter-square.svg" width="5%"></a>
+            <a href="https://www.linkedin.com/in/bourgonlaurent/" alt="Linkedin"><img src="./linkedin.svg" width="5%"></a>
+            <a href="mailto:laurent.bourgon@outlook.com" alt="Contact me"><img src="./envelope-square.svg" width="5%"></a>
+        </p>
+    </p>
+</footer>
 
 <!--
 **BourgonLaurent/BourgonLaurent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
