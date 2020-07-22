@@ -4,7 +4,7 @@
 
 <footer>
     <p align="center">
-    <i>Let's connect and chat! Some days can be pretty boring...</i>
+    <i>Let's connect and chat! Some days can be quite boring...</i>
         <p align="center">
             <a href="https://dev.to/bourgonlaurent" alt="DEV"><img src="./dev.svg" width="5%"></a>
             <a href="https://twitter.com/BourgonLau" alt="Twitter"><img src="./twitter-square.svg" width="5%"></a>
