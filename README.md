@@ -1,22 +1,18 @@
-<!-- <header>
-    <img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/name.svg">
-</header> -->
-
-## :school_satchel: I'm currently learning
+# :school_satchel: I'm currently learning
 
 - Data Manipulation in Jupyter with `Python`
 - Scripting (and enhancing) the MacBook Pro TouchBar inside BetterTouchTool with `JavaScript + AppleScript`
 - Introduction to SwiftUI with `Swift`
 
-## :hammer: Projects I'm currently working on
+# :hammer: Projects I'm currently working on
 
 - :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
 
-## :black_nib: Most Recent Blog Posts
+# :black_nib: Most Recent Blog Posts
 
 - 
 
-## :sparkles: Nice Projects I've Made
+# :sparkles: Nice Projects I've Made
 
 - :notebook_with_decorative_cover: [pyÉtude](https://github.com/BourgonLaurent/pyEtude)
 - :ski: [TelegramSuttonForecast](https://github.com/BourgonLaurent/pyEtude)
