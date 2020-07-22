@@ -1,6 +1,6 @@
-<header>
+<!-- <header>
     <img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/name.svg">
-</header>
+</header> -->
 
 ## :school_satchel: I'm currently learning
 
@@ -11,6 +11,10 @@
 ## :hammer: Projects I'm currently working on
 
 - :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
+
+## :black_nib: Most Recent Blog Posts
+
+- 
 
 ## :sparkles: Nice Projects I've Made
 
