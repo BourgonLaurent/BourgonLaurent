@@ -1,8 +1,9 @@
 # :school_satchel: I'm currently learning
 
-- Data Manipulation in Jupyter with `Python`
-- Scripting (and enhancing) the MacBook Pro TouchBar inside BetterTouchTool with `JavaScript + AppleScript`
+- Create modular GUIs using Qt for Python with `Python`
 - Introduction to SwiftUI with `Swift`
+- Scripting (and enhancing) the MacBook Pro TouchBar inside [BetterTouchTool](https://folivora.ai) with `JavaScript + AppleScript`
+- Creating workflows for [Alfred](https://www.alfredapp.com), a replacement to Spotlight
 
 # :black_nib: Recent Blog Posts
 
@@ -10,12 +11,13 @@
 
 # :hammer: Projects I'm currently working on
 
-- :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
+- :pencil2: [Damysos](https://github.com/BourgonLaurent/pyEtude/tree/refactor-damysos): A rewrite of pyÉtude that will allow easier bug fixing and adding functionalities
 
 # :sparkles: Nice Projects I've Made
 
 - :notebook_with_decorative_cover: [pyÉtude](https://github.com/BourgonLaurent/pyEtude)
 - :ski: [TelegramSuttonForecast](https://github.com/BourgonLaurent/pyEtude)
+- :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
 
 ---
 
