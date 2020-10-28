@@ -1,7 +1,7 @@
 # :school_satchel: I'm currently learning
 
 - Create modular GUIs using Qt for Python with `Python`
-- Introduction to SwiftUI with `Swift`
+- Creating descriptive and easy to maintain GUIs with `SwiftUI`
 - Scripting (and enhancing) the MacBook Pro TouchBar inside [BetterTouchTool](https://folivora.ai) with `JavaScript + AppleScript`
 - Creating workflows for [Alfred](https://www.alfredapp.com), a replacement to Spotlight
 
