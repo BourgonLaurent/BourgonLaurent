@@ -12,6 +12,7 @@
 # :hammer: Projects I'm currently working on
 
 - :pencil2: [Damysos](https://github.com/BourgonLaurent/pyEtude/tree/refactor-damysos): A rewrite of pyÉtude that will allow easier bug fixing and adding functionalities
+- :ski: Sutton Monitor: A SwiftUI app that provides ski forecasts and condition details.
 
 # :sparkles: Nice Projects I've Made
 
