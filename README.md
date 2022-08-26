@@ -1,35 +1,18 @@
-# :school_satchel: I'm currently learning
+# :school_satchel: Currently Learning
 
-- Create modular GUIs using Qt for Python with `Python`
-- Creating descriptive and easy to maintain GUIs with `SwiftUI`
-- Scripting (and enhancing) the MacBook Pro TouchBar inside [BetterTouchTool](https://folivora.ai) with `JavaScript + AppleScript`
-- Creating workflows for [Alfred](https://www.alfredapp.com), a replacement to Spotlight
+- Creating descriptive, maintainable cross-platform GUIs with [`SwiftUI`](https://developer.apple.com/xcode/swiftui/)
+- Safe, low overhead programming with [`Rust`](https://www.rust-lang.org)
 
-# :black_nib: Recent Blog Posts
+# :hammer: What I'm Doing
 
-- [Saving Time as a Student: Create Custom Documents in 10 seconds](https://dev.to/bourgonlaurent/saving-time-as-a-student-create-custom-documents-in-10-seconds-4hea)
+- Easy and secure deployment of homelabs with [`docker compose`](https://docs.docker.com/compose/), [`traefik2`](https://github.com/traefik/traefik) and [Cloudflare Argo Tunnels](https://www.cloudflare.com/en-ca/products/tunnel/)
+- Modular CV in `LaTeX` supporting different locales keyed in `YAML`
+- Modifying Kobo e-readers' Nickel OS with [kobopatch](https://github.com/pgaskin/kobopatch)
+- A SwiftUI app helping ski intructors by allowing easy lesson follow-ups whilst also providing schedules, snow conditions, weather forecasts and webcams
+- [Damysos](https://github.com/BourgonLaurent/pyEtude/tree/refactor-damysos): A modular, full rewrite of pyÉtude, one of the first project I've ever made
 
-# :hammer: Projects I'm currently working on
-
-- :pencil2: [Damysos](https://github.com/BourgonLaurent/pyEtude/tree/refactor-damysos): A rewrite of pyÉtude that will allow easier bug fixing and adding functionalities
-- :ski: Sutton Monitor: A SwiftUI app that provides ski forecasts and condition details.
-
-# :sparkles: Nice Projects I've Made
+# :sparkles: Some *Incomplete* Projects
 
 - :notebook_with_decorative_cover: [pyÉtude](https://github.com/BourgonLaurent/pyEtude)
-- :ski: [TelegramSuttonForecast](https://github.com/BourgonLaurent/pyEtude)
+- :ski: [TelegramSuttonForecast](https://github.com/BourgonLaurent/TelegramSuttonForecast)
 - :coffee: [CoffeeMachine](https://github.com/BourgonLaurent/CoffeeMachine)
-
----
-
-<footer>
-    <p align="center">
-    <i>Let's connect and chat! Some days can be quite boring...</i>
-        <p align="center">
-            <a href="https://dev.to/bourgonlaurent" alt="DEV"><img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/dev.svg" width="5%"></a>
-            <a href="https://twitter.com/BourgonLau" alt="Twitter"><img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/twitter-square.svg" width="5%"></a>
-            <a href="https://www.linkedin.com/in/bourgonlaurent/" alt="Linkedin"><img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/linkedin.svg" width="5%"></a>
-            <a href="mailto:laurent.bourgon@outlook.com" alt="Contact me"><img src="https://raw.githubusercontent.com/BourgonLaurent/BourgonLaurent/master/envelope-square.svg" width="5%"></a>
-        </p>
-    </p>
-</footer>
